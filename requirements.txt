@@ -1,0 +1,7 @@
+tensorflow_gpu
+matplotlib
+PyQt5
+opencv-contrib-python
+keras
+numpy
+Pillow
